@@ -1,0 +1,3 @@
+[submodule "openstartracker"]
+	path = openstartracker
+	url = https://github.com/UBNanosatLab/openstartracker.git
