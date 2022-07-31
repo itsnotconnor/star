@@ -1,0 +1,4 @@
+## Run:
+#$ sudo service docker start
+#$ source setup.sh
+
